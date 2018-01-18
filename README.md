@@ -1,2 +1,2 @@
 # sample-website
-First website
+Flask based first website
